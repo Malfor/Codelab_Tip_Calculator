@@ -1,0 +1,1 @@
+Esta aplicación le  permitirá a los trabajadores calcular su propina segun la calificacion del servicio ofrecido.
